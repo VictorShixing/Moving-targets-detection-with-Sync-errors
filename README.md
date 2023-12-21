@@ -1,5 +1,5 @@
 # Moving-targets-detection-with-Sync-errors
-This is part of the MATLAB code for "WMoving Target Detection Using a Distributed MIMO Radar System with Synchronization Errors".
+This is part of the MATLAB code for "WMoving Target Detection Using a Distributed MIMO Radar System with Synchronization Errors", please add file "cvx-w64" (CVX tools for matlab) into the root of this folder before test.
 
 If you use the code, please cite our work:
 
